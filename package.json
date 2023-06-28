@@ -9,12 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/next-js": "^2.1.4",
+    "@chakra-ui/react": "^2.7.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@lens-protocol/react-web": "^1.2.1",
+    "@lens-protocol/wagmi": "^2.0.1",
+    "@nytimes/react-prosemirror": "^0.2.3",
     "@rainbow-me/rainbowkit": "^1.0.0",
+    "add": "^2.0.6",
+    "ethers": "^5.7.2",
+    "framer-motion": "^10.12.17",
+    "gray-matter": "^4.0.3",
+    "markdown-to-jsx": "^7.2.1",
     "next": "^13.4.0",
+    "prosemirror-schema-basic": "^1.2.2",
+    "prosemirror-state": "^1.4.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hook-form": "^7.45.0",
+    "remark": "^14.0.3",
+    "remark-html": "^15.0.2",
     "viem": "~0.3.36",
-    "wagmi": "^1.0.6"
+    "wagmi": "^1.0.6",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@types/node": "^17.0.31",
